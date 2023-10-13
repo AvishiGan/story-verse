@@ -1,4 +1,4 @@
-# Stories
+# StoryVerse
 
 Setup:
 
